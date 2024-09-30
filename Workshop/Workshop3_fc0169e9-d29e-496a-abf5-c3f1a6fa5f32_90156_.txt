@@ -1,0 +1,10 @@
+Format of logbook Include:
+Cover Page 
+TOC
+Table of figures
+Lab title (Configuring Server Using Server Manager and Adding Users using both GUI and CLI)
+	1.1. Aim
+	1.2. Objectives
+	1.3. Required tools and concepts
+	1.4. Steps required for lab
+	1.5. Conclusion
